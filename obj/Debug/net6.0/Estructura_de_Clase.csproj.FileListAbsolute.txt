@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\bin\Debug\net6.0\Estructura_de_Clase.exe
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\bin\Debug\net6.0\Estructura_de_Clase.deps.json
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\bin\Debug\net6.0\Estructura_de_Clase.runtimeconfig.json
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\bin\Debug\net6.0\Estructura_de_Clase.dll
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\bin\Debug\net6.0\Estructura_de_Clase.pdb
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\obj\Debug\net6.0\Estructura_de_Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\obj\Debug\net6.0\Estructura_de_Clase.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\obj\Debug\net6.0\Estructura_de_Clase.AssemblyInfo.cs
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\obj\Debug\net6.0\Estructura_de_Clase.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\obj\Debug\net6.0\Estructura_de_Clase.dll
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\obj\Debug\net6.0\refint\Estructura_de_Clase.dll
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\obj\Debug\net6.0\Estructura_de_Clase.pdb
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\obj\Debug\net6.0\Estructura_de_Clase.genruntimeconfig.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C4\PROG II\Tareas C#\Estructura_de_Clase\obj\Debug\net6.0\ref\Estructura_de_Clase.dll
